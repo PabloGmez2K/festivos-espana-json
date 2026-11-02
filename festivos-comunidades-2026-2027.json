@@ -1,0 +1,2494 @@
+{
+  "nombre": "Calendario de días festivos oficiales de España (2026 y 2027) por comunidad autónoma",
+  "licencia": "CC0-1.0",
+  "fuentePrimaria": "Boletín Oficial del Estado (BOE-A-2025-21667 y BOE-A-2026-21254) y boletines autonómicos/provinciales",
+  "sitioWeb": "https://datoslaborales.es/",
+  "herramientas": {
+    "calendarioLaboralEspana": "https://datoslaborales.es/calendario-laboral/",
+    "calculadoraDiasLaborables": "https://datoslaborales.es/calculadora-dias-laborables/",
+    "generadorCalendarioEmpresa": "https://datoslaborales.es/calendario-laboral-empresa/",
+    "puentes2027": "https://datoslaborales.es/puentes/",
+    "calendarioEscolarComunitatValenciana": "https://datoslaborales.es/calendario-escolar/comunitat-valenciana/"
+  },
+  "comunidades": [
+    {
+      "codauto": "01",
+      "nombre": "Andalucía",
+      "slug": "andalucia",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/andalucia/",
+      "urlPuentes": "https://datoslaborales.es/puentes/andalucia/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-01",
+          "nombre": "Día de Andalucía",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-02-28",
+          "nombre": "Día de Andalucía",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "02",
+      "nombre": "Aragón",
+      "slug": "aragon",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/aragon/",
+      "urlPuentes": "https://datoslaborales.es/puentes/aragon/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-04-23",
+          "nombre": "San Jorge/Día de Aragón",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-23",
+          "nombre": "San Jorge/Día de Aragón",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "03",
+      "nombre": "Principado de Asturias",
+      "slug": "asturias",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/asturias/",
+      "urlPuentes": "https://datoslaborales.es/puentes/asturias/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-09-08",
+          "nombre": "Día de Asturias",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-09-08",
+          "nombre": "Día de Asturias",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "04",
+      "nombre": "Illes Balears",
+      "slug": "illes-balears",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/illes-balears/",
+      "urlPuentes": "https://datoslaborales.es/puentes/illes-balears/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-01",
+          "nombre": "Día de les Illes Balears",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-02",
+          "nombre": "Lunes siguiente al Día de les Illes Balears",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-26",
+          "nombre": "San Esteban",
+          "tipo": "autonomico"
+        }
+      ]
+    },
+    {
+      "codauto": "05",
+      "nombre": "Canarias",
+      "slug": "canarias",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/canarias/",
+      "urlPuentes": "https://datoslaborales.es/puentes/canarias/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-30",
+          "nombre": "Día de Canarias",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "06",
+      "nombre": "Cantabria",
+      "slug": "cantabria",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/cantabria/",
+      "urlPuentes": "https://datoslaborales.es/puentes/cantabria/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-07-28",
+          "nombre": "Día de las Instituciones de Cantabria",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-09-15",
+          "nombre": "La Bien Aparecida",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-07-28",
+          "nombre": "Día de las Instituciones de Cantabria",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-09-15",
+          "nombre": "La Bien Aparecida",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "07",
+      "nombre": "Castilla y León",
+      "slug": "castilla-y-leon",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/castilla-y-leon/",
+      "urlPuentes": "https://datoslaborales.es/puentes/castilla-y-leon/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-04-23",
+          "nombre": "Fiesta de Castilla y León",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-23",
+          "nombre": "Fiesta de Castilla y León",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "08",
+      "nombre": "Castilla-La Mancha",
+      "slug": "castilla-la-mancha",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/castilla-la-mancha/",
+      "urlPuentes": "https://datoslaborales.es/puentes/castilla-la-mancha/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-27",
+          "nombre": "Corpus Christi",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-31",
+          "nombre": "Día de Castilla-La Mancha",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-04",
+          "nombre": "Corpus Christi",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "09",
+      "nombre": "Cataluña",
+      "slug": "cataluna",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/cataluna/",
+      "urlPuentes": "https://datoslaborales.es/puentes/cataluna/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-06-24",
+          "nombre": "Día de San Juan",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-09-11",
+          "nombre": "Fiesta Nacional de Cataluña",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-24",
+          "nombre": "San Juan",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-09-11",
+          "nombre": "Fiesta Nacional de Cataluña",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-26",
+          "nombre": "San Esteban",
+          "tipo": "autonomico"
+        }
+      ]
+    },
+    {
+      "codauto": "10",
+      "nombre": "Comunitat Valenciana",
+      "slug": "comunitat-valenciana",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/comunitat-valenciana/",
+      "urlPuentes": "https://datoslaborales.es/puentes/comunitat-valenciana/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-09",
+          "nombre": "Día de la Comunitat Valenciana",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-24",
+          "nombre": "San Juan",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-09",
+          "nombre": "Día de la Comunitat Valenciana",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "11",
+      "nombre": "Extremadura",
+      "slug": "extremadura",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/extremadura/",
+      "urlPuentes": "https://datoslaborales.es/puentes/extremadura/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-09-08",
+          "nombre": "Día de Extremadura",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-11",
+          "nombre": "Sustitución 15 de agosto",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-09-08",
+          "nombre": "Día de Extremadura",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "12",
+      "nombre": "Galicia",
+      "slug": "galicia",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/galicia/",
+      "urlPuentes": "https://datoslaborales.es/puentes/galicia/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-17",
+          "nombre": "Día de las Letras Gallegas",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-24",
+          "nombre": "San Juan",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-07-25",
+          "nombre": "Santiago Apóstol/Día Nacional de Galicia",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "13",
+      "nombre": "Comunidad de Madrid",
+      "slug": "madrid",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/madrid/",
+      "urlPuentes": "https://datoslaborales.es/puentes/madrid/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-08-16",
+          "nombre": "Lunes siguiente a asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-02",
+          "nombre": "Fiesta de la Comunidad de Madrid",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "14",
+      "nombre": "Región de Murcia",
+      "slug": "murcia",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/murcia/",
+      "urlPuentes": "https://datoslaborales.es/puentes/murcia/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-06-09",
+          "nombre": "Día de la Región de Murcia",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-09",
+          "nombre": "Día de la Región de Murcia",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "15",
+      "nombre": "Comunidad Foral de Navarra",
+      "slug": "navarra",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/navarra/",
+      "urlPuentes": "https://datoslaborales.es/puentes/navarra/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-11-02",
+          "nombre": "Día siguiente a Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "16",
+      "nombre": "País Vasco",
+      "slug": "pais-vasco",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/pais-vasco/",
+      "urlPuentes": "https://datoslaborales.es/puentes/pais-vasco/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-10-07",
+          "nombre": "Aniversario 1er Gobierno Euskadi",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-19",
+          "nombre": "San José",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-07-25",
+          "nombre": "Santiago Apóstol/Día Nacional de Galicia",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "17",
+      "nombre": "La Rioja",
+      "slug": "la-rioja",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/la-rioja/",
+      "urlPuentes": "https://datoslaborales.es/puentes/la-rioja/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-29",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-06-09",
+          "nombre": "Día de La Rioja",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-06",
+          "nombre": "Lunes de Pascua",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-06-09",
+          "nombre": "Día de la Rioja",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "18",
+      "nombre": "Ciudad de Ceuta",
+      "slug": "ceuta",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/ceuta/",
+      "urlPuentes": "https://datoslaborales.es/puentes/ceuta/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-17",
+          "nombre": "Eidul Adha-Fiesta Sacrificio",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-08-05",
+          "nombre": "Nuestra Señora de África",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-27",
+          "nombre": "Fiesta Sacrificio-Eidul Adha",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-05",
+          "nombre": "Nuestra Señora de África",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-09-02",
+          "nombre": "Día de Ceuta",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    },
+    {
+      "codauto": "19",
+      "nombre": "Ciudad de Melilla",
+      "slug": "melilla",
+      "urlCalendario": "https://datoslaborales.es/calendario-laboral/melilla/",
+      "urlPuentes": "https://datoslaborales.es/puentes/melilla/",
+      "festivos2027": [
+        {
+          "fecha": "2027-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-10",
+          "nombre": "Fiesta del Eid Fitr",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-03-25",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-03-26",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-05-17",
+          "nombre": "Fiesta Sacrificio-Aid Al Adha",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2027-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-11-01",
+          "nombre": "Todos los Santos",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-06",
+          "nombre": "Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2027-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ],
+      "festivos2026": [
+        {
+          "fecha": "2026-01-01",
+          "nombre": "Año Nuevo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-01-06",
+          "nombre": "Epifanía del Señor",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-03-20",
+          "nombre": "Fiesta del Eid Fitr",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-04-02",
+          "nombre": "Jueves Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-04-03",
+          "nombre": "Viernes Santo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-01",
+          "nombre": "Fiesta del Trabajo",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-05-27",
+          "nombre": "Fiesta Sacrificio-Aid al Adha",
+          "tipo": "autonomico"
+        },
+        {
+          "fecha": "2026-08-15",
+          "nombre": "Asunción de la Virgen",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-10-12",
+          "nombre": "Fiesta Nacional de España",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-07",
+          "nombre": "Lunes siguiente al Día de la Constitución Española",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-08",
+          "nombre": "Inmaculada Concepción",
+          "tipo": "nacional"
+        },
+        {
+          "fecha": "2026-12-25",
+          "nombre": "Natividad del Señor",
+          "tipo": "nacional"
+        }
+      ]
+    }
+  ]
+}

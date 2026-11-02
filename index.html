@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Datos abiertos de días festivos oficiales en España (2026 y 2027) — BOE y boletines oficiales</title>
+  <meta name="description" content="Dataset JSON abierto de días festivos nacionales, autonómicos y locales de España (2026 y 2027) verificados con el BOE y boletines oficiales en datoslaborales.es.">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Calendario de días festivos oficiales de España (2026 y 2027)",
+    "description": "Días festivos nacionales y autonómicos de las 19 comunidades y ciudades autónomas de España en 2026 y 2027 según el BOE, enlazado con los calendarios municipales de datoslaborales.es.",
+    "url": "https://pablogmez2k.github.io/festivos-espana-json/",
+    "sameAs": "https://datoslaborales.es/calendario-laboral/",
+    "isBasedOn": "https://datoslaborales.es/",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "creator": {
+      "@type": "Organization",
+      "name": "datoslaborales.es",
+      "url": "https://datoslaborales.es/"
+    },
+    "distribution": {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://pablogmez2k.github.io/festivos-espana-json/festivos-comunidades-2026-2027.json"
+    }
+  }
+  </script>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 52rem; margin: 2rem auto; padding: 0 1.25rem; line-height: 1.6; color: #1c1b19; background: #f6f3ec; }
+    h1, h2 { line-height: 1.2; }
+    a { color: #b82924; font-weight: 600; }
+    .card { background: #fffdf8; border: 1px solid #e0d9ca; border-radius: 8px; padding: 1.1rem 1.25rem; margin: 1.25rem 0; }
+    ul.cols { columns: 2; padding-left: 1.2rem; }
+    @media (max-width: 600px) { ul.cols { columns: 1; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Datos abiertos: días festivos oficiales de España (2026 y 2027)</h1>
+    <p>Conjunto de datos en formato JSON con los festivos nacionales y autonómicos de las 19 comunidades y ciudades autónomas publicados en el <strong>Boletín Oficial del Estado</strong> (<code>BOE-A-2025-21667</code> y <code>BOE-A-2026-21254</code>), mantenido por <a href="https://datoslaborales.es/">datoslaborales.es</a>.</p>
+
+    <div class="card">
+      <h2>Descarga y herramientas interactivas</h2>
+      <ul>
+        <li><a href="./festivos-comunidades-2026-2027.json">Descargar JSON de festivos 2026–2027 por comunidad autónoma</a></li>
+        <li><a href="https://datoslaborales.es/">Calendario laboral 2027 y 2026 en España (con fiestas locales por municipio)</a></li>
+        <li><a href="https://datoslaborales.es/calendario-laboral/">Calendario laboral 2027 de España: festivos comunes y por comunidad</a></li>
+        <li><a href="https://datoslaborales.es/calculadora-dias-laborables/">Calculadora de días laborables entre dos fechas (7.419 municipios)</a></li>
+        <li><a href="https://datoslaborales.es/calendario-laboral-empresa/">Generador de calendario laboral para empresas en PDF, Excel y QR</a></li>
+        <li><a href="https://datoslaborales.es/puentes/">Puentes y fines de semana largos de 2027 en España</a></li>
+        <li><a href="https://datoslaborales.es/calendario-escolar/comunitat-valenciana/">Calendario escolar 2026-2027 de la Comunitat Valenciana y días sin cole</a></li>
+        <li><a href="https://datoslaborales.es/festivos/7-de-diciembre/">¿Dónde es festivo el lunes 7 de diciembre de 2026?</a></li>
+      </ul>
+    </div>
+
+    <h2>Calendario laboral y puentes por comunidad autónoma</h2>
+    <ul class="cols">
+      <li><a href="https://datoslaborales.es/calendario-laboral/andalucia/">Andalucía</a> (<a href="https://datoslaborales.es/puentes/andalucia/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/aragon/">Aragón</a> (<a href="https://datoslaborales.es/puentes/aragon/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/asturias/">Principado de Asturias</a> (<a href="https://datoslaborales.es/puentes/asturias/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/illes-balears/">Illes Balears</a> (<a href="https://datoslaborales.es/puentes/illes-balears/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/canarias/">Canarias</a> (<a href="https://datoslaborales.es/puentes/canarias/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/cantabria/">Cantabria</a> (<a href="https://datoslaborales.es/puentes/cantabria/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/castilla-y-leon/">Castilla y León</a> (<a href="https://datoslaborales.es/puentes/castilla-y-leon/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/castilla-la-mancha/">Castilla-La Mancha</a> (<a href="https://datoslaborales.es/puentes/castilla-la-mancha/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/cataluna/">Cataluña</a> (<a href="https://datoslaborales.es/puentes/cataluna/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/comunitat-valenciana/">Comunitat Valenciana</a> (<a href="https://datoslaborales.es/puentes/comunitat-valenciana/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/extremadura/">Extremadura</a> (<a href="https://datoslaborales.es/puentes/extremadura/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/galicia/">Galicia</a> (<a href="https://datoslaborales.es/puentes/galicia/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/madrid/">Comunidad de Madrid</a> (<a href="https://datoslaborales.es/puentes/madrid/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/murcia/">Región de Murcia</a> (<a href="https://datoslaborales.es/puentes/murcia/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/navarra/">Comunidad Foral de Navarra</a> (<a href="https://datoslaborales.es/puentes/navarra/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/pais-vasco/">País Vasco</a> (<a href="https://datoslaborales.es/puentes/pais-vasco/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/la-rioja/">La Rioja</a> (<a href="https://datoslaborales.es/puentes/la-rioja/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/ceuta/">Ciudad de Ceuta</a> (<a href="https://datoslaborales.es/puentes/ceuta/">puentes</a>)</li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/melilla/">Ciudad de Melilla</a> (<a href="https://datoslaborales.es/puentes/melilla/">puentes</a>)</li>
+    </ul>
+
+    <h2>Ciudades principales con fiestas locales verificadas en boletín oficial</h2>
+    <ul class="cols">
+      <li><a href="https://datoslaborales.es/calendario-laboral/madrid/madrid/">Madrid</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/barcelona/barcelona/">Barcelona</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/sevilla/sevilla/">Sevilla</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/zaragoza/zaragoza/">Zaragoza</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/malaga/malaga/">Málaga</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/murcia/murcia/">Murcia</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/illes-balears/palma/">Palma</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/las-palmas/las-palmas-de-gran-canaria/">Las Palmas de Gran Canaria</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/bizkaia/bilbao/">Bilbao</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/alicante/elche/">Elche</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/cordoba/cordoba/">Córdoba</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/pontevedra/vigo/">Vigo</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/asturias/gijon/">Gijón</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/asturias/oviedo/">Oviedo</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/a-coruna/a-coruna/">A Coruña</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/santa-cruz-de-tenerife/santa-cruz-de-tenerife/">Santa Cruz de Tenerife</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/cantabria/santander/">Santander</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/toledo/toledo/">Toledo</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/badajoz/badajoz/">Badajoz</a></li>
+      <li><a href="https://datoslaborales.es/calendario-laboral/alicante/alcoy/">Alcoy</a></li>
+    </ul>
+
+    <p><small>Metodología y relación de boletines oficiales en <a href="https://datoslaborales.es/como-lo-hacemos/">datoslaborales.es/como-lo-hacemos/</a>.</small></p>
+  </main>
+</body>
+</html>
